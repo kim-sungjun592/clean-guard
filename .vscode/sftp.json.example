@@ -1,0 +1,10 @@
+{
+    "name": "DotHome",
+    "host": "your.ftp.host.example.com",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "your_ftp_username",
+    "password": "your_ftp_password",
+    "remotePath": "/html",
+    "uploadOnSave": true
+}
